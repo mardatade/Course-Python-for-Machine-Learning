@@ -1,0 +1,17 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - keras
+  - matplotlib
+  - netCDF4
+  - numpy
+  - pandas
+  - pip
+  - scikit-learn
+  - scipy
+  - tensorflow
+  - xarray
+  - zarr
+  
