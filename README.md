@@ -19,4 +19,4 @@ Course materials on Python for machine learning:
 5. Experiment on real data (ML application for climate modelling)
 6. Closing remarks
 
-#### you can reach me via: [Linkedin](linkedin.com/in/sonal-rami-518713169) [Github](https://github.com/SonalRami) [Email](sonal.rami@awi.de)
+_**You can reach me via:** [Linkedin](https://linkedin.com/in/sonal-rami-518713169) [Github](https://github.com/SonalRami) [Email](mailto:sonal.rami@awi.de)_
