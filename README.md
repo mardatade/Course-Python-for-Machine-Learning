@@ -8,7 +8,7 @@ Course materials on Python for machine learning:
     * AI-ML-DL
     * Types of ML techniques
     * Python essential libraries for ML
-2. Linear and Nonlinear Reggression-representation in 3 different ways
+2. Linear and Nonlinear Reggression
     * Implementation using Scikit-learn
 3. Neural-Network
     * Implementation using Keras
@@ -19,4 +19,4 @@ Course materials on Python for machine learning:
 5. Experiment on real data (ML application for climate modelling)
 6. Closing remarks
 
-_**You can reach me via:** [Linkedin](https://linkedin.com/in/sonal-rami-518713169) [Github](https://github.com/SonalRami) [Email](mailto:sonal.rami@awi.de)_
+_**You can reach me via:** [Linkedin](https://linkedin.com/in/sonal-rami-518713169) [Email](mailto:sonal.rami@awi.de)_
