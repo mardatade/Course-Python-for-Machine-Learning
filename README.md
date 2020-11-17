@@ -5,10 +5,9 @@ Run it now: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.or
 Course materials on Python for machine learning:
 1. Introduction
     * Basics of machine learning
-AI-ML-DL
-* Types of ML techniques
-      * Supervised Learning
-* Python essential libraries for ML
+    ° AI-ML-DL
+    ° Types of ML techniques
+    ° Python essential libraries for ML
 * Linear Reggression-representation with 3 different ways
       * Implementation using Scikit-learn
       * Implementation using Neural Network, Keras
