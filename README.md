@@ -3,8 +3,9 @@
 Run it now: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mardatade/Course-Python-for-Machine-Learning/master)
 
 Course materials on Python for machine learning:
-* Basics of machine learning
-      * AI-ML-DL
+1. Introduction
+    * Basics of machine learning
+AI-ML-DL
 * Types of ML techniques
       * Supervised Learning
 * Python essential libraries for ML
