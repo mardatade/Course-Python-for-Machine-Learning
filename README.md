@@ -12,9 +12,9 @@ Course materials on Python for machine learning:
     * Implementation using Scikit-learn
 3. Neural-Network
     * Implementation using Keras
-4. 
-* ML best practices to remember
-      * Train_Test_split
-      * Bias-Variance-Tradeoff
-      * Overfitting_Unerfitting
-* Experiment on real data (ML application for climate modelling)
+4. ML best practices to remember
+    * Train_Test_split
+    * Overfitting_Unerfitting
+    * Bias-Variance-Tradeoff
+5. Experiment on real data (ML application for climate modelling)
+6. Closing remarks
