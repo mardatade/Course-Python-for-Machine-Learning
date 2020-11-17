@@ -3,9 +3,9 @@
 Run it now: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mardatade/Course-Python-for-Machine-Learning/master)
 
 Course materials on Python for machine learning:
-Introduction
+* Introduction
 AI-ML-DL
-Types of ML tech.
+Types of ML techniques
 Supervised Learning
 Python libraries
 Linear Reggression
